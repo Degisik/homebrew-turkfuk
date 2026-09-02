@@ -7,7 +7,7 @@ cask "turkfuk" do
   desc "Turkish Keylayout for US Keylayouts"
   homepage "https://github.com/Degisik/Turkfuk"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Turkfuk.app"
 
