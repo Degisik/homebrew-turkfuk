@@ -1,6 +1,6 @@
 cask "turkfuk" do
-  version "0.1.0-beta"
-  sha256 "d8cbb23cdc58792dadd7a9294f6e107ffb2759f2ef27891144472696bf0d8e89"
+  version "0.1.1-beta"
+  sha256 "5ce9f97347fc40c0fdfd85f99e018adf76ca9cfb3e980b02333e3bdd3dd82bef"
 
   url "https://github.com/Degisik/Turkfuk/releases/download/v#{version}/Turkfuk-#{version}.dmg"
   name "Turkfuk"
